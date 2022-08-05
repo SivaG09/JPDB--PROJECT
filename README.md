@@ -41,6 +41,9 @@
            * All Key-Value DB. 
            * Need of Geospatial / Time series. 
            * Best for Real Time Applications. 
- 
+   
+   ### CRUD OPEARTIONS USING TALEND API TESTER.
+          #### PUT
+   
          
                   
