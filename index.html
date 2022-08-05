@@ -108,7 +108,7 @@ if (jsonStr === "") {
 return;
 }
 var putReqStr = createPUTRequest("90937552|-31949294554917066|90942613",
-jsonStr, "SAMPLE", "EMP-REL");
+jsonStr, "EMPLOYEE", "EMP-REL");
 alert(putReqStr);
 jQuery.ajaxSetup({async: false});
 var resultObj = executeCommand(putReqStr,"http://api.login2explore.com:5577", "/api/iml");
