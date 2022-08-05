@@ -43,9 +43,24 @@
            * Best for Real Time Applications. 
    
    ### CRUD OPEARTIONS USING TALEND API TESTER.
+   ## PUT
    ![PUT](https://user-images.githubusercontent.com/98580303/183055654-af75ddcb-3094-46ee-8250-ce6976b19776.PNG)
+   ## GET
    ![GET](https://user-images.githubusercontent.com/98580303/183055091-4ddf6abd-76ff-49ab-8eae-cb3f17c09ece.PNG)
+   ## UPDATE
    ![UPDATE](https://user-images.githubusercontent.com/98580303/183055693-ddee80f4-3d39-4165-a889-d875b5276858.PNG)
+   ## REMOVE
    ![REMOVE](https://user-images.githubusercontent.com/98580303/183055667-58c160c8-a292-404d-b53e-aca4f3279d90.PNG)
+   ## DATABSE OUTPUT
+   ![TALEND](https://user-images.githubusercontent.com/98580303/183057136-3dbbef48-69dd-4fa2-af74-564cc28fd325.PNG)
+      
+   ### CRUD OPERATIONS USING NETBEANS    
+   ![HTML](https://user-images.githubusercontent.com/98580303/183057124-a8069a5c-f10a-4a98-ab1b-3ae44d28e342.PNG)
+   ![NET](https://user-images.githubusercontent.com/98580303/183057135-feac0072-90d5-4ba9-aa39-c819c4959d9a.PNG)
+
+
+   I had attached all my project files.
+   
+   # THANK YOU
          
                   
