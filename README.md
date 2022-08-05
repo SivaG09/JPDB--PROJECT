@@ -43,7 +43,10 @@
            * Best for Real Time Applications. 
    
    ### CRUD OPEARTIONS USING TALEND API TESTER.
-          #### PUT
+          #### GET
+          [
+![GET](https://user-images.githubusercontent.com/98580303/183055091-4ddf6abd-76ff-49ab-8eae-cb3f17c09ece.PNG)
+](url)
    
          
                   
