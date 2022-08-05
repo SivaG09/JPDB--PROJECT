@@ -43,8 +43,9 @@
            * Best for Real Time Applications. 
    
    ### CRUD OPEARTIONS USING TALEND API TESTER.
-![GET](https://user-images.githubusercontent.com/98580303/183055091-4ddf6abd-76ff-49ab-8eae-cb3f17c09ece.PNG)
-
-   
+   ![PUT](https://user-images.githubusercontent.com/98580303/183055654-af75ddcb-3094-46ee-8250-ce6976b19776.PNG)
+   ![GET](https://user-images.githubusercontent.com/98580303/183055091-4ddf6abd-76ff-49ab-8eae-cb3f17c09ece.PNG)
+   ![UPDATE](https://user-images.githubusercontent.com/98580303/183055693-ddee80f4-3d39-4165-a889-d875b5276858.PNG)
+   ![REMOVE](https://user-images.githubusercontent.com/98580303/183055667-58c160c8-a292-404d-b53e-aca4f3279d90.PNG)
          
                   
